@@ -34,7 +34,7 @@ const NumberGame = () => {
                 <p>Max: {max}</p>
                 <p>Min: {min}</p>
                 <p>Sum: {sum}</p>
-                <p>Avg: {(avg.toFixed(2))}</p>
+                <p>Avg: {avg}</p>
                 <p>Reversed Order: {reverse}</p>
                 
 
