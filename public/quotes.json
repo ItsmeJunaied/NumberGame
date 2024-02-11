@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "colorCode": "#FF5733",
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "imageLink": "https://i.ibb.co/LpPkj4q/stevejobs-1419962539-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "colorCode": "#3498DB",
+      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "imageLink": "https://i.ibb.co/TrxF2kh/Abraham-Lincoln-O-77-matte-collodion-print-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "colorCode": "#27AE60",
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "imageLink": "https://i.ibb.co/JpCK1dL/gettyimages-3437022-removebg-preview.png"
+    },
+    {
+      "id": 4,
+      "colorCode": "#9B59B6",
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "imageLink": "https://example.com/winston_churchill_image.jpg"
+    },
+    {
+      "id": 5,
+      "colorCode": "#F39C12",
+      "quote": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "imageLink": "https://example.com/tony_robbins_image.jpg"
+    }
+  ]
+  
